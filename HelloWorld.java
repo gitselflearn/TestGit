@@ -3,6 +3,6 @@ public class HelloWorld
 	public static void main (String args[])
 {
 		System.out.println("Hello World!");
-		System.out.println("This needs to be updated");
+		System.out.println("This needs to be updated")
 }
 }
